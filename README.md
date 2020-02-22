@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/eltonlazzarin/doe-web-app/blob/master/public/logo.png" alt="Logo" />
   <br>
-  DOE is a web application to create the registry of new blood donors
 </h1>
 
 <h4 align="center">
