@@ -24,6 +24,7 @@
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://github.com/expressjs/express)
+- [Nodemon](https://nodemon.io/)
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Postgres](https://www.postgresql.org/)
 
