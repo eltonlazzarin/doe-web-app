@@ -24,6 +24,7 @@
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://github.com/expressjs/express)
+- [Docker](https://www.docker.com/products/docker-desktop)
 - [Postgres](https://www.postgresql.org/)
 
 #### Frontend
@@ -48,7 +49,7 @@ $ cd doe-web-app
 $ yarn
 
 # Docker
-Create your [Docker](https://www.docker.com/products/docker-desktop) environment according to the dockerfile file by typing the command in your terminal
+Create your Docker environment according to the dockerfile file by typing the command in your terminal
 ```
 
 ## :information_source: How To Use
