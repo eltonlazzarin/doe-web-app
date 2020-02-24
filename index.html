@@ -9,30 +9,30 @@
       href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap"
       rel="stylesheet"
     />
-    <title>Doe sangue! Doe vida!</title>
+    <title>Donate blood, donate life!</title>
   </head>
   <body>
     <header>
       <img src="/logo.png" alt="Logo DOE" class="logo" />
-      <h2>A sua doação importa</h2>
-      <p>Até 3 vidas com 1 doação</p>
-      <p>Mais de 38.000 doações são necessárias todos os dias</p>
-      <p>Apenas 1,9% da população brasileira, doa sangue.</p>
-      <button>Quero ajudar</button>
+      <h2>Your donation matters</h2>
+      <p>Up to 3 lives with 1 donation</p>
+      <p>More than 38,000 donations are needed every day</p>
+      <p>Only 1.9% of the Brazilian population donates blood.</p>
+      <button>I wanna help</button>
     </header>
 
     <section class="form hide">
-      <h2>Entre na lista de doadores</h2>
+      <h2>Enter the donor list</h2>
       <form action="/" method="POST">
-        <input type="text" name="name" placeholder="Nome Completo" />
-        <input type="email" name="email" placeholder="E-mail" />
-        <input type="text" name="blood" placeholder="Tipo sanguíneo" />
-        <button>Quero ajudar</button>
+        <input type="text" name="name" placeholder="Full name" />
+        <input type="email" name="email" placeholder="Email" />
+        <input type="text" name="blood" placeholder="Blood type" />
+        <button>I wanna help</button>
       </form>
     </section>
 
     <main>
-      <h2>Últimos <span>doadores</span></h2>
+      <h2>Last <span>donors</span></h2>
 
       <section class="donors">
         {% for donor in donors %}
@@ -46,7 +46,7 @@
       </section>
     </main>
 
-    <footer>Com ❤️ para todos!</footer>
+    <footer>With ❤️ for all!</footer>
 
     <script src="/scripts.js"></script>
   </body>
