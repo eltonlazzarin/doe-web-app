@@ -48,7 +48,7 @@ $ cd doe-web-app
 $ yarn
 
 # Docker
-Create your Docker environment according to the dockerfile file by typing the command in your terminal
+Create your [Docker](https://www.docker.com/products/docker-desktop) environment according to the dockerfile file by typing the command in your terminal
 ```
 
 ## :information_source: How To Use
