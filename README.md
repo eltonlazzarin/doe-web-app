@@ -18,7 +18,7 @@
 <p align="center">
 <img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/mainpage.png">
 
-## Backend
+## Backend Technologies
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://github.com/expressjs/express)
@@ -26,7 +26,7 @@
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Postgres](https://www.postgresql.org/)
 
-## Frontend
+## Frontend Technologies
 
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -50,8 +50,6 @@ $ yarn
 # Docker
 Create your Docker environment according to the dockerfile file by typing the command in your terminal
 ```
-
-## :information_source: How To Use
 
 ### :rocket: Frontend
 
