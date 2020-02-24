@@ -20,14 +20,22 @@
 <p align="center">
 <img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/mainpage.png">
 
+#### Backend
+
+- [Node.js](https://nodejs.org/)
 - [Express](https://github.com/expressjs/express)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [Postgres](https://www.postgresql.org/)
+
+#### Frontend
+
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## :information_source: How To Use
+
+#### Backend
 
 ```bash
 # Clone this repository
@@ -39,6 +47,15 @@ $ cd doe-web-app
 # Install dependencies
 $ yarn
 
+# Docker
+Create your Docker environment according to the dockerfile file by typing the command in your terminal
+```
+
+## :information_source: How To Use
+
+#### Frontend
+
+```bash
 # Run the app
 $ yarn start
 ```
