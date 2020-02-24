@@ -57,7 +57,7 @@ Create your Docker environment according to the dockerfile file by typing the co
 # Run the app
 $ yarn start
 
-Open http://localhost:3333 on your browser
+Open http://localhost:3333 in your browser
 ```
 
 ### :memo: License
