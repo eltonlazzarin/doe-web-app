@@ -15,12 +15,10 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/doe-web-app">
 
-### :rocket: Frontend Technologies (WebApp)
-
 <p align="center">
 <img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/mainpage.png">
 
-#### Backend
+### :rocket: Backend
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://github.com/expressjs/express)
@@ -28,7 +26,7 @@
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Postgres](https://www.postgresql.org/)
 
-#### Frontend
+#### :rocket: Frontend
 
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
