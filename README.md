@@ -16,7 +16,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/doe-web-app">
 
 <p align="center">
-<img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/mainpage.png">
+<img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/bloodproject.gif">
 
 ## :rocket: Backend Technologies
 
