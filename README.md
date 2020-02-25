@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://github.com/eltonlazzarin/doe-web-app/blob/master/public/logo.png" alt="Logo" />
   <br>
 </h1>
