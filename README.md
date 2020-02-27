@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  DOE is a web application that consists of making people aware of being blood donors, where they can register to be donated in a simple and functional way
+  DOE is a web application that consists of making people aware of blood donation, where they can register to be donors in a simple and functional way
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/doe-web-app">
