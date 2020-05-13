@@ -60,7 +60,7 @@ $ yarn start
 Open http://localhost:3333 in your browser
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
